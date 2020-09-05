@@ -1,0 +1,43 @@
+version: '3.3'
+
+services:
+    cursoemvideo:
+        build: .
+        restart: always
+        ports:
+            - 9090:80
+        environment: 
+            WORDPRESS_DB_HOST: cursoemvideo-db
+            WORDPRESS_DB_USER: sist_cursoemvideo
+            WORDPRESS_DB_PASSWORD: wppass1662
+            WORDPRESS_DB_NAME: cursoemvideo
+        volumes: 
+            - ./src:/var/www/html/wp-content/plugins/meu-plugin
+    
+    cursoemvideo-db:
+        image: mysql:5.7
+        command: --skip-grant-tables
+        restart: always
+        ports:
+            - 3306:3306
+        environment: 
+            MYSQL_DATABASE: cursoemvideo
+            MYSQL_USER: sist_cursoemvideo
+            MYSQL_PASSWORD: wppass1662
+            MYSQL_RANDOM_ROOT_PASSWORD: '1'
+        volumes: 
+            - ./db:/var/lib/mysql
+    
+    adminer:
+        depends_on: 
+            - cursoemvideo-db
+        image: adminer
+        restart: always
+        ports: 
+            - 9999:9090
+
+networks:
+    back:
+
+volumes:
+    db:
