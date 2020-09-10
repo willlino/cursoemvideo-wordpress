@@ -12,7 +12,8 @@ services:
             WORDPRESS_DB_PASSWORD: wppass1662
             WORDPRESS_DB_NAME: cursoemvideo
         volumes: 
-            - ./src:/var/www/html/wp-content/plugins/meu-plugin
+            # - ./src:/var/www/html/wp-content/plugins/meu-plugin
+            - ./uploads.ini:/usr/local/etc/php/conf.d/uploads.ini
     
     cursoemvideo-db:
         image: mysql:5.7
