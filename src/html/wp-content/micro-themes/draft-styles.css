@@ -1,0 +1,35 @@
+/*  MICROTHEMER STYLES  */
+
+
+/*= Conteúdo ================= */
+
+/** Conteúdo >> Título Cardápio Home **/
+#post-16 .cardapiohome .uagb-rm__title-wrap {
+	width: 270px !important;
+}
+
+/** Conteúdo >> Preço Cardápio Home **/
+#post-16 .cardapiohome .uagb-rm__price {
+	width: 80px !important;
+}
+
+/** Conteúdo >> #post-16 .blocohappyhour **/
+#post-16 .blocohappyhour {
+	display: -webkit-box !important;
+	display: -moz-box !important;
+	display: -ms-flexbox !important;
+	display: -webkit-flex !important;
+	display: flex !important;
+	-webkit-align-items: center !important;
+	align-items: center !important;
+}
+
+
+/*= Rodapé =================== */
+
+/** Rodapé >> Barra do Rodapé **/
+#colophon .ast-footer-overlay {
+	padding-top: 10px !important;
+	padding-bottom: 10px !important;
+}
+
