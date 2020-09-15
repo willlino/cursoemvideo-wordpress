@@ -33,3 +33,17 @@
 	padding-bottom: 10px !important;
 }
 
+
+/*( Celular )*/
+@media (max-width: 480px) {
+
+	/*= Conteúdo ================= */
+
+	/** Conteúdo >> Título Cardápio Home **/
+	#post-16 .cardapiohome .uagb-rm__title-wrap {
+	width: 210px !important;
+}
+
+
+}
+
