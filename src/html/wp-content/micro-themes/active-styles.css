@@ -45,5 +45,18 @@
 }
 
 
+	/*= Cardápio ================= */
+
+	/** Cardápio >> titulo-item-menu **/
+	#post-18 .uagb-rm__title {
+	font-size: 25px !important;
+}
+
+	/** Cardápio >> preco-cardapio **/
+	#post-18 .uagb-rm__price {
+	width: 40px !important;
+}
+
+
 }
 
