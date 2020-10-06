@@ -1,0 +1,298 @@
+0000.004 (0) Opened log file at time: Wed, 23 Sep 2020 18:54:33 +0000 on http://localhost:9090
+0000.007 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.29 WP: 5.5.1 PHP: 7.4.10 (apache2handler, Linux 0e54870c92c6 4.19.76-linuxkit #1 SMP Tue May 26 11:42:35 UTC 2020 x86_64) MySQL: 5.7.30 WPLANG: pt_BR Server: Apache/2.4.38 (Debian) safe_mode: 0 max_execution_time: 900 memory_limit: 500M (used: 14.6M | 2M) multisite: N openssl: OpenSSL 1.1.1d  10 Sep 2019 mcrypt: N LANG: C ZipArchive::addFile: Y
+0000.009 (0) Free space on disk containing Updraft's temporary directory: 818962.4 MB
+0003.769 (0) Tasks: Backup files: 1 (schedule: manual) Backup DB: 1 (schedule: manual)
+0003.775 (0) Semaphore (fd, wp_options) being initialised
+0003.778 (0) Requesting semaphore lock (fd) (apparently not via scheduler)
+0003.783 (0) Set semaphore last lock (fd) time to 2020-09-23 18:54:36
+0003.784 (0) Semaphore lock (fd) complete
+0003.789 (0) Backup run: resumption=0, nonce=e667f5665795, file_nonce=e667f5665795 begun at=1600887273 (3s ago), job type=backup
+0003.792 (0) Scheduling a resumption (1) after 300 seconds (1600887576) in case this run gets aborted
+0003.823 (0) Checking if we have a zip executable available
+0003.826 (0) Creation of backups of directories: beginning
+0003.850 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0036.627 (0) Total entities for the zip file: 717 directories, 4122 files (0 skipped as non-modified), 99.4 MB
+0036.634 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 1 (1) files added so far); re-opening (prior size: 0 KB)
+0038.302 (0) Zip: backup_2020-09-23-1554_Fresco_e667f5665795-plugins.zip.tmp: 100 files added (on-disk size: 127.4 KB)
+0038.444 (0) Zip: backup_2020-09-23-1554_Fresco_e667f5665795-plugins.zip.tmp: 200 files added (on-disk size: 127.4 KB)
+0038.579 (0) Zip: backup_2020-09-23-1554_Fresco_e667f5665795-plugins.zip.tmp: 300 files added (on-disk size: 127.4 KB)
+0038.700 (0) Zip: backup_2020-09-23-1554_Fresco_e667f5665795-plugins.zip.tmp: 400 files added (on-disk size: 127.4 KB)
+0038.819 (0) Zip: backup_2020-09-23-1554_Fresco_e667f5665795-plugins.zip.tmp: 500 files added (on-disk size: 127.4 KB)
+0038.824 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (24.9 MB, 4122 files batched, 501 (502) added so far); re-opening (prior size: 127.4 KB)
+0044.966 (0) Zip: backup_2020-09-23-1554_Fresco_e667f5665795-plugins.zip.tmp: 600 files added (on-disk size: 10050.6 KB)
+0045.089 (0) Zip: backup_2020-09-23-1554_Fresco_e667f5665795-plugins.zip.tmp: 700 files added (on-disk size: 10050.6 KB)
+0045.229 (0) Zip: backup_2020-09-23-1554_Fresco_e667f5665795-plugins.zip.tmp: 800 files added (on-disk size: 10050.6 KB)
+0045.369 (0) Zip: backup_2020-09-23-1554_Fresco_e667f5665795-plugins.zip.tmp: 900 files added (on-disk size: 10050.6 KB)
+0045.496 (0) Zip: backup_2020-09-23-1554_Fresco_e667f5665795-plugins.zip.tmp: 1000 files added (on-disk size: 10050.6 KB)
+0045.503 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (18.2 MB, 4122 files batched, 501 (1003) added so far); re-opening (prior size: 10050.6 KB)
+0050.665 (0) Zip: backup_2020-09-23-1554_Fresco_e667f5665795-plugins.zip.tmp: 1100 files added (on-disk size: 15845.9 KB)
+0050.834 (0) Zip: backup_2020-09-23-1554_Fresco_e667f5665795-plugins.zip.tmp: 1200 files added (on-disk size: 15845.9 KB)
+0051.011 (0) Zip: backup_2020-09-23-1554_Fresco_e667f5665795-plugins.zip.tmp: 1300 files added (on-disk size: 15845.9 KB)
+0051.177 (0) Zip: backup_2020-09-23-1554_Fresco_e667f5665795-plugins.zip.tmp: 1400 files added (on-disk size: 15845.9 KB)
+0051.349 (0) Zip: backup_2020-09-23-1554_Fresco_e667f5665795-plugins.zip.tmp: 1500 files added (on-disk size: 15845.9 KB)
+0051.356 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (2.9 MB, 4122 files batched, 501 (1504) added so far); re-opening (prior size: 15845.9 KB)
+0055.318 (0) Zip: backup_2020-09-23-1554_Fresco_e667f5665795-plugins.zip.tmp: 1600 files added (on-disk size: 16770.3 KB)
+0055.450 (0) Zip: backup_2020-09-23-1554_Fresco_e667f5665795-plugins.zip.tmp: 1700 files added (on-disk size: 16770.3 KB)
+0055.575 (0) Zip: backup_2020-09-23-1554_Fresco_e667f5665795-plugins.zip.tmp: 1800 files added (on-disk size: 16770.3 KB)
+0055.718 (0) Zip: backup_2020-09-23-1554_Fresco_e667f5665795-plugins.zip.tmp: 1900 files added (on-disk size: 16770.3 KB)
+0055.867 (0) Zip: backup_2020-09-23-1554_Fresco_e667f5665795-plugins.zip.tmp: 2000 files added (on-disk size: 16770.3 KB)
+0055.877 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (16.2 MB, 4122 files batched, 501 (2005) added so far); re-opening (prior size: 16770.3 KB)
+0060.508 (0) Zip: backup_2020-09-23-1554_Fresco_e667f5665795-plugins.zip.tmp: 2100 files added (on-disk size: 20331.9 KB)
+0060.639 (0) Zip: backup_2020-09-23-1554_Fresco_e667f5665795-plugins.zip.tmp: 2200 files added (on-disk size: 20331.9 KB)
+0060.791 (0) Zip: backup_2020-09-23-1554_Fresco_e667f5665795-plugins.zip.tmp: 2300 files added (on-disk size: 20331.9 KB)
+0060.938 (0) Zip: backup_2020-09-23-1554_Fresco_e667f5665795-plugins.zip.tmp: 2400 files added (on-disk size: 20331.9 KB)
+0061.066 (0) Zip: backup_2020-09-23-1554_Fresco_e667f5665795-plugins.zip.tmp: 2500 files added (on-disk size: 20331.9 KB)
+0061.074 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (18.9 MB, 4122 files batched, 501 (2506) added so far); re-opening (prior size: 20331.9 KB)
+0067.258 (0) Zip: backup_2020-09-23-1554_Fresco_e667f5665795-plugins.zip.tmp: 2600 files added (on-disk size: 25571.4 KB)
+0067.402 (0) Zip: backup_2020-09-23-1554_Fresco_e667f5665795-plugins.zip.tmp: 2700 files added (on-disk size: 25571.4 KB)
+0067.542 (0) Zip: backup_2020-09-23-1554_Fresco_e667f5665795-plugins.zip.tmp: 2800 files added (on-disk size: 25571.4 KB)
+0067.677 (0) Zip: backup_2020-09-23-1554_Fresco_e667f5665795-plugins.zip.tmp: 2900 files added (on-disk size: 25571.4 KB)
+0067.824 (0) Zip: backup_2020-09-23-1554_Fresco_e667f5665795-plugins.zip.tmp: 3000 files added (on-disk size: 25571.4 KB)
+0067.837 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (1.9 MB, 4122 files batched, 501 (3007) added so far); re-opening (prior size: 25571.4 KB)
+0072.546 (0) Zip: backup_2020-09-23-1554_Fresco_e667f5665795-plugins.zip.tmp: 3100 files added (on-disk size: 26284 KB)
+0072.691 (0) Zip: backup_2020-09-23-1554_Fresco_e667f5665795-plugins.zip.tmp: 3200 files added (on-disk size: 26284 KB)
+0072.862 (0) Zip: backup_2020-09-23-1554_Fresco_e667f5665795-plugins.zip.tmp: 3300 files added (on-disk size: 26284 KB)
+0073.089 (0) Zip: backup_2020-09-23-1554_Fresco_e667f5665795-plugins.zip.tmp: 3400 files added (on-disk size: 26284 KB)
+0073.289 (0) Zip: backup_2020-09-23-1554_Fresco_e667f5665795-plugins.zip.tmp: 3500 files added (on-disk size: 26284 KB)
+0073.314 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (9.6 MB, 4122 files batched, 501 (3508) added so far); re-opening (prior size: 26284 KB)
+0079.620 (0) Zip: backup_2020-09-23-1554_Fresco_e667f5665795-plugins.zip.tmp: 3600 files added (on-disk size: 31204.6 KB)
+0079.751 (0) Zip: backup_2020-09-23-1554_Fresco_e667f5665795-plugins.zip.tmp: 3700 files added (on-disk size: 31204.6 KB)
+0079.877 (0) Zip: backup_2020-09-23-1554_Fresco_e667f5665795-plugins.zip.tmp: 3800 files added (on-disk size: 31204.6 KB)
+0080.004 (0) Zip: backup_2020-09-23-1554_Fresco_e667f5665795-plugins.zip.tmp: 3900 files added (on-disk size: 31204.6 KB)
+0080.131 (0) Zip: backup_2020-09-23-1554_Fresco_e667f5665795-plugins.zip.tmp: 4000 files added (on-disk size: 31204.6 KB)
+0080.144 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (6.3 MB, 4122 files batched, 501 (4009) added so far); re-opening (prior size: 31204.6 KB)
+0086.220 (0) Zip: backup_2020-09-23-1554_Fresco_e667f5665795-plugins.zip.tmp: 4100 files added (on-disk size: 32807.1 KB)
+0090.432 (0) Created plugins zip (0) - 32991.1 KB in 86.6 s (381.1 KB/s) (sha1: b18c23cc1df2761cdc2a25721b3ff45ebaa0e0b2, sha256: 802f07809122dab4208d23a15ab0d2d62c776cc98b8a0d5d6aae32d572b2d481)
+0090.452 (0) Beginning creation of dump of themes (split every: 400 MB)
+0093.869 (0) Total entities for the zip file: 116 directories, 421 files (0 skipped as non-modified), 4.6 MB
+0093.873 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 1 (1) files added so far); re-opening (prior size: 0 KB)
+0094.257 (0) Zip: backup_2020-09-23-1554_Fresco_e667f5665795-themes.zip.tmp: 100 files added (on-disk size: 19.3 KB)
+0094.386 (0) Zip: backup_2020-09-23-1554_Fresco_e667f5665795-themes.zip.tmp: 200 files added (on-disk size: 19.3 KB)
+0094.509 (0) Zip: backup_2020-09-23-1554_Fresco_e667f5665795-themes.zip.tmp: 300 files added (on-disk size: 19.3 KB)
+0094.636 (0) Zip: backup_2020-09-23-1554_Fresco_e667f5665795-themes.zip.tmp: 400 files added (on-disk size: 19.3 KB)
+0096.508 (0) Created themes zip (0) - 1085.8 KB in 6 s (179.5 KB/s) (sha1: fa2ad81354ac69449c29f82b1fc412b003a33145, sha256: b34235cb61c2b893329271acd2cfed88041735944415853a1152302eb29c0fef)
+0096.527 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0096.530 (0) Looking for candidates to backup in: /var/www/html/wp-content/uploads
+0096.536 (0) finding files: 2020: adding to list (1)
+0096.539 (0) finding files: uag-plugin: adding to list (2)
+0096.542 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0097.224 (0) Total entities for the zip file: 3 directories, 127 files (0 skipped as non-modified), 16 MB
+0097.382 (0) Zip: backup_2020-09-23-1554_Fresco_e667f5665795-uploads.zip.tmp: 100 files added (on-disk size: 0 KB)
+0100.080 (0) Created uploads zip (0) - 16446.7 KB in 3.5 s (4659.2 KB/s) (sha1: 5e15fb6633e411a4d10382b59e73ef46d58064f4, sha256: a986808368d01691fec6322b8585fbffe84357569eff6f984f160075aae3209d)
+0100.099 (0) Beginning backup of other directories found in the content directory (index: 0)
+0100.100 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0100.102 (0) Looking for candidates to backup in: /var/www/html/wp-content
+0100.104 (0) finding files: ewww: adding to list (1)
+0100.105 (0) finding files: index.php: adding to list (2)
+0100.107 (0) finding files: languages: adding to list (3)
+0100.108 (0) finding files: micro-themes: adding to list (4)
+0100.109 (0) finding files: plugins: skipping: this is the plugins directory
+0100.111 (0) finding files: themes: skipping: this is the themes directory
+0100.113 (0) finding files: updraft: skipping: this is the updraft directory
+0100.114 (0) finding files: upgrade: skipping: excluded by options
+0100.115 (0) finding files: uploads: skipping: this is the uploads directory
+0100.168 (0) Total entities for the zip file: 5 directories, 92 files (0 skipped as non-modified), 5.9 MB
+0101.739 (0) Created others zip (0) - 2196.6 KB in 1.6 s (1356.4 KB/s) (sha1: 91514df3706f5ed64ab2b506e6a1612674907d16, sha256: a1a9416f3697fe6b525c4d43a434b7c7cdb6e2275cc9f01f90246ca9dcbd8eba)
+0101.758 (0) Saving backup status to database (elements: 8)
+0101.762 (0) Beginning creation of database dump (WordPress DB)
+0101.764 (0) SQL compatibility mode is: NO_ZERO_IN_DATE,ERROR_FOR_DIVISION_BY_ZERO,NO_AUTO_CREATE_USER,NO_ENGINE_SUBSTITUTION
+0101.992 (0) Table wp_options: Total expected rows (approximate): 327
+0102.052 (0) Table wp_options: Rows added in this batch (start page: 0; next: finished): 327 in 0.06 seconds
+0102.064 (0) Table wp_options: finishing file (backup_2020-09-23-1554_Fresco_e667f5665795-db-table-wp_options.table.gz - 200.4 KB)
+0102.080 (0) Table wp_users: Total expected rows (approximate): 0
+0102.084 (0) Table wp_users: Rows added in this batch (start page: 0; next: finished): 1 in 0.00 seconds
+0102.091 (0) Table wp_users: finishing file (backup_2020-09-23-1554_Fresco_e667f5665795-db-table-wp_users.table.gz - 0.6 KB)
+0102.106 (0) Table wp_usermeta: Total expected rows (approximate): 26
+0102.111 (0) Table wp_usermeta: Rows added in this batch (start page: 0; next: finished): 27 in 0.00 seconds
+0102.118 (0) Table wp_usermeta: finishing file (backup_2020-09-23-1554_Fresco_e667f5665795-db-table-wp_usermeta.table.gz - 1.2 KB)
+0102.133 (0) Table wp_actionscheduler_actions: Total expected rows (approximate): 0
+0102.138 (0) Table wp_actionscheduler_actions: Rows added in this batch (start page: 0; next: finished): 1 in 0.00 seconds
+0102.146 (0) Table wp_actionscheduler_actions: finishing file (backup_2020-09-23-1554_Fresco_e667f5665795-db-table-wp_actionscheduler_actions.table.gz - 0.7 KB)
+0102.167 (0) Table wp_actionscheduler_claims: Total expected rows (approximate): 0
+0102.172 (0) Table wp_actionscheduler_claims: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0102.180 (0) Table wp_actionscheduler_claims: finishing file (backup_2020-09-23-1554_Fresco_e667f5665795-db-table-wp_actionscheduler_claims.table.gz - 0.3 KB)
+0102.194 (0) Table wp_actionscheduler_groups: Total expected rows (approximate): 0
+0102.199 (0) Table wp_actionscheduler_groups: Rows added in this batch (start page: 0; next: finished): 1 in 0.00 seconds
+0102.206 (0) Table wp_actionscheduler_groups: finishing file (backup_2020-09-23-1554_Fresco_e667f5665795-db-table-wp_actionscheduler_groups.table.gz - 0.4 KB)
+0102.228 (0) Table wp_actionscheduler_logs: Total expected rows (approximate): 0
+0102.233 (0) Table wp_actionscheduler_logs: Rows added in this batch (start page: 0; next: finished): 1 in 0.00 seconds
+0102.242 (0) Table wp_actionscheduler_logs: finishing file (backup_2020-09-23-1554_Fresco_e667f5665795-db-table-wp_actionscheduler_logs.table.gz - 0.4 KB)
+0102.261 (0) Table wp_commentmeta: Total expected rows (approximate): 0
+0102.264 (0) Table wp_commentmeta: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0102.271 (0) Table wp_commentmeta: finishing file (backup_2020-09-23-1554_Fresco_e667f5665795-db-table-wp_commentmeta.table.gz - 0.4 KB)
+0102.286 (0) Table wp_comments: Total expected rows (approximate): 0
+0102.290 (0) Table wp_comments: Rows added in this batch (start page: 0; next: finished): 1 in 0.00 seconds
+0102.298 (0) Table wp_comments: finishing file (backup_2020-09-23-1554_Fresco_e667f5665795-db-table-wp_comments.table.gz - 0.7 KB)
+0102.322 (0) Table wp_links: Total expected rows (approximate): 0
+0102.325 (0) Table wp_links: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0102.332 (0) Table wp_links: finishing file (backup_2020-09-23-1554_Fresco_e667f5665795-db-table-wp_links.table.gz - 0.4 KB)
+0102.346 (0) Table wp_postmeta: Total expected rows (approximate): 254
+0102.352 (0) Table wp_postmeta: Rows added in this batch (start page: 0; next: finished): 282 in 0.00 seconds
+0102.360 (0) Table wp_postmeta: finishing file (backup_2020-09-23-1554_Fresco_e667f5665795-db-table-wp_postmeta.table.gz - 5.4 KB)
+0102.373 (0) Table wp_posts: Total expected rows (approximate): 273
+0102.573 (0) Table wp_posts: Rows added in this batch (start page: 0; next: finished): 337 in 0.20 seconds
+0102.584 (0) Table wp_posts: finishing file (backup_2020-09-23-1554_Fresco_e667f5665795-db-table-wp_posts.table.gz - 339.2 KB)
+0102.599 (0) Table wp_term_relationships: Total expected rows (approximate): 13
+0102.602 (0) Table wp_term_relationships: Rows added in this batch (start page: 0; next: finished): 14 in 0.00 seconds
+0102.610 (0) Table wp_term_relationships: finishing file (backup_2020-09-23-1554_Fresco_e667f5665795-db-table-wp_term_relationships.table.gz - 0.4 KB)
+0102.624 (0) Table wp_term_taxonomy: Total expected rows (approximate): 12
+0102.628 (0) Table wp_term_taxonomy: Rows added in this batch (start page: 0; next: finished): 12 in 0.00 seconds
+0102.635 (0) Table wp_term_taxonomy: finishing file (backup_2020-09-23-1554_Fresco_e667f5665795-db-table-wp_term_taxonomy.table.gz - 0.5 KB)
+0102.650 (0) Table wp_termmeta: Total expected rows (approximate): 0
+0102.654 (0) Table wp_termmeta: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0102.662 (0) Table wp_termmeta: finishing file (backup_2020-09-23-1554_Fresco_e667f5665795-db-table-wp_termmeta.table.gz - 0.4 KB)
+0102.677 (0) Table wp_terms: Total expected rows (approximate): 12
+0102.680 (0) Table wp_terms: Rows added in this batch (start page: 0; next: finished): 12 in 0.00 seconds
+0102.688 (0) Table wp_terms: finishing file (backup_2020-09-23-1554_Fresco_e667f5665795-db-table-wp_terms.table.gz - 0.6 KB)
+0102.704 (0) Table wp_auto_updates: Total expected rows (approximate): 21
+0102.707 (0) Table wp_auto_updates: Rows added in this batch (start page: 0; next: finished): 21 in 0.00 seconds
+0102.716 (0) Table wp_auto_updates: finishing file (backup_2020-09-23-1554_Fresco_e667f5665795-db-table-wp_auto_updates.table.gz - 0.5 KB)
+0102.732 (0) Table wp_ewwwio_images: Total expected rows (approximate): 94
+0102.737 (0) Table wp_ewwwio_images: Rows added in this batch (start page: 0; next: finished): 102 in 0.00 seconds
+0102.746 (0) Table wp_ewwwio_images: finishing file (backup_2020-09-23-1554_Fresco_e667f5665795-db-table-wp_ewwwio_images.table.gz - 3.5 KB)
+0102.767 (0) Table wp_ewwwio_queue: Total expected rows (approximate): 0
+0102.770 (0) Table wp_ewwwio_queue: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0102.777 (0) Table wp_ewwwio_queue: finishing file (backup_2020-09-23-1554_Fresco_e667f5665795-db-table-wp_ewwwio_queue.table.gz - 0.3 KB)
+0102.798 (0) Table wp_micro_revisions: Total expected rows (approximate): 24
+0102.820 (0) Table wp_micro_revisions: Rows added in this batch (start page: 0; next: finished): 52 in 0.02 seconds
+0102.831 (0) Table wp_micro_revisions: finishing file (backup_2020-09-23-1554_Fresco_e667f5665795-db-table-wp_micro_revisions.table.gz - 20.6 KB)
+0102.845 (0) Table wp_update_log: Total expected rows (approximate): 0
+0102.849 (0) Table wp_update_log: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0102.856 (0) Table wp_update_log: finishing file (backup_2020-09-23-1554_Fresco_e667f5665795-db-table-wp_update_log.table.gz - 0.3 KB)
+0102.877 (0) Table wp_wpforms_tasks_meta: Total expected rows (approximate): 0
+0102.880 (0) Table wp_wpforms_tasks_meta: Rows added in this batch (start page: 0; next: finished): 0 in 0.00 seconds
+0102.887 (0) Table wp_wpforms_tasks_meta: finishing file (backup_2020-09-23-1554_Fresco_e667f5665795-db-table-wp_wpforms_tasks_meta.table.gz - 0.3 KB)
+0102.900 (0) backup_2020-09-23-1554_Fresco_e667f5665795-db-table-wp_options.table.gz (1/22): adding to final database dump
+0102.949 (0) backup_2020-09-23-1554_Fresco_e667f5665795-db-table-wp_users.table.gz (2/22): adding to final database dump
+0102.952 (0) backup_2020-09-23-1554_Fresco_e667f5665795-db-table-wp_usermeta.table.gz (3/22): adding to final database dump
+0102.956 (0) backup_2020-09-23-1554_Fresco_e667f5665795-db-table-wp_actionscheduler_actions.table.gz (4/22): adding to final database dump
+0102.960 (0) backup_2020-09-23-1554_Fresco_e667f5665795-db-table-wp_actionscheduler_claims.table.gz (5/22): adding to final database dump
+0102.964 (0) backup_2020-09-23-1554_Fresco_e667f5665795-db-table-wp_actionscheduler_groups.table.gz (6/22): adding to final database dump
+0102.967 (0) backup_2020-09-23-1554_Fresco_e667f5665795-db-table-wp_actionscheduler_logs.table.gz (7/22): adding to final database dump
+0102.970 (0) backup_2020-09-23-1554_Fresco_e667f5665795-db-table-wp_commentmeta.table.gz (8/22): adding to final database dump
+0102.974 (0) backup_2020-09-23-1554_Fresco_e667f5665795-db-table-wp_comments.table.gz (9/22): adding to final database dump
+0102.979 (0) backup_2020-09-23-1554_Fresco_e667f5665795-db-table-wp_links.table.gz (10/22): adding to final database dump
+0102.982 (0) backup_2020-09-23-1554_Fresco_e667f5665795-db-table-wp_postmeta.table.gz (11/22): adding to final database dump
+0102.987 (0) backup_2020-09-23-1554_Fresco_e667f5665795-db-table-wp_posts.table.gz (12/22): adding to final database dump
+0103.105 (0) backup_2020-09-23-1554_Fresco_e667f5665795-db-table-wp_term_relationships.table.gz (13/22): adding to final database dump
+0103.109 (0) backup_2020-09-23-1554_Fresco_e667f5665795-db-table-wp_term_taxonomy.table.gz (14/22): adding to final database dump
+0103.113 (0) backup_2020-09-23-1554_Fresco_e667f5665795-db-table-wp_termmeta.table.gz (15/22): adding to final database dump
+0103.117 (0) backup_2020-09-23-1554_Fresco_e667f5665795-db-table-wp_terms.table.gz (16/22): adding to final database dump
+0103.120 (0) backup_2020-09-23-1554_Fresco_e667f5665795-db-table-wp_auto_updates.table.gz (17/22): adding to final database dump
+0103.123 (0) backup_2020-09-23-1554_Fresco_e667f5665795-db-table-wp_ewwwio_images.table.gz (18/22): adding to final database dump
+0103.127 (0) backup_2020-09-23-1554_Fresco_e667f5665795-db-table-wp_ewwwio_queue.table.gz (19/22): adding to final database dump
+0103.130 (0) backup_2020-09-23-1554_Fresco_e667f5665795-db-table-wp_micro_revisions.table.gz (20/22): adding to final database dump
+0103.141 (0) backup_2020-09-23-1554_Fresco_e667f5665795-db-table-wp_update_log.table.gz (21/22): adding to final database dump
+0103.146 (0) backup_2020-09-23-1554_Fresco_e667f5665795-db-table-wp_wpforms_tasks_meta.table.gz (22/22): adding to final database dump
+0103.204 (0) backup_2020-09-23-1554_Fresco_e667f5665795-db.gz: finished writing out complete database file (552 KB)
+0103.263 (0) Total database tables backed up: 22 (backup_2020-09-23-1554_Fresco_e667f5665795-db.gz, size: 586553, sha1: eef6bd195c009d5315f7cb7493664eb0bcddb219, sha256: e46d14acb27492960d6ef9711c6169fda2f16b7ccbb6d2d6805afa1b80766bd1)
+0103.270 (0) backup_2020-09-23-1554_Fresco_e667f5665795-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0103.275 (0) backup_2020-09-23-1554_Fresco_e667f5665795-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0103.277 (0) backup_2020-09-23-1554_Fresco_e667f5665795-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0103.279 (0) backup_2020-09-23-1554_Fresco_e667f5665795-others.zip: others: This file has not yet been successfully uploaded: will queue
+0103.281 (0) backup_2020-09-23-1554_Fresco_e667f5665795-db.gz: db: This file has not yet been successfully uploaded: will queue
+0103.282 (0) Saving backup history. Total backup size: 52 MB
+0103.286 (0) Requesting upload of the files that have not yet been successfully uploaded (5)
+0103.291 (0) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+0103.294 (0) Beginning dispatch of backup to remote (googledrive) (instance identifier s-a51475d5c98efb57799c4751a9d9a4a4)
+0104.205 (0) Google Drive: creating path: /UpdraftPlus
+0105.796 (0) Google Drive: quota usage: used=2688.5 MB, total=15360 MB, available=12671.5 MB
+0105.798 (0) Google Drive: backup_2020-09-23-1554_Fresco_e667f5665795-plugins.zip: Attempting to upload to Google Drive (into folder id: 1gya2c2l0JoPqhl8bYeIF-phDxFose_Cm)
+0107.581 (0) Googledrive chunked upload: 3.1 % uploaded (1048576)
+0108.924 (0) Googledrive chunked upload: 6.2 % uploaded (2097152)
+0110.087 (0) Googledrive chunked upload: 9.3 % uploaded (3145728)
+0112.000 (0) Googledrive chunked upload: 12.4 % uploaded (4194304)
+0113.150 (0) Googledrive chunked upload: 15.5 % uploaded (5242880)
+0114.355 (0) Googledrive chunked upload: 18.6 % uploaded (6291456)
+0115.528 (0) Googledrive chunked upload: 21.7 % uploaded (7340032)
+0116.667 (0) Googledrive chunked upload: 24.8 % uploaded (8388608)
+0117.729 (0) Googledrive chunked upload: 27.9 % uploaded (9437184)
+0119.586 (0) Googledrive chunked upload: 31 % uploaded (10485760)
+0120.760 (0) Googledrive chunked upload: 34.1 % uploaded (11534336)
+0121.968 (0) Googledrive chunked upload: 37.2 % uploaded (12582912)
+0122.724 (0) Googledrive chunked upload: 40.4 % uploaded (13631488)
+0123.869 (0) Googledrive chunked upload: 43.5 % uploaded (14680064)
+0125.148 (0) Googledrive chunked upload: 46.6 % uploaded (15728640)
+0126.282 (0) Googledrive chunked upload: 49.7 % uploaded (16777216)
+0127.457 (0) Googledrive chunked upload: 52.8 % uploaded (17825792)
+0128.590 (0) Googledrive chunked upload: 55.9 % uploaded (18874368)
+0130.065 (0) Googledrive chunked upload: 59 % uploaded (19922944)
+0131.113 (0) Googledrive chunked upload: 62.1 % uploaded (20971520)
+0132.278 (0) Googledrive chunked upload: 65.2 % uploaded (22020096)
+0133.470 (0) Googledrive chunked upload: 68.3 % uploaded (23068672)
+0134.951 (0) Googledrive chunked upload: 71.4 % uploaded (24117248)
+0136.070 (0) Googledrive chunked upload: 74.5 % uploaded (25165824)
+0137.560 (0) Googledrive chunked upload: 77.6 % uploaded (26214400)
+0139.066 (0) Googledrive chunked upload: 80.7 % uploaded (27262976)
+0140.207 (0) Googledrive chunked upload: 83.8 % uploaded (28311552)
+0141.388 (0) Googledrive chunked upload: 86.9 % uploaded (29360128)
+0142.167 (0) Googledrive chunked upload: 90 % uploaded (30408704)
+0143.303 (0) Googledrive chunked upload: 93.1 % uploaded (31457280)
+0144.406 (0) Googledrive chunked upload: 96.2 % uploaded (32505856)
+0145.582 (0) Googledrive chunked upload: 99.3 % uploaded (33554432)
+0147.096 (0) Googledrive chunked upload: 100 % uploaded (33554432)
+0147.101 (0) Google Drive: OK: Archive backup_2020-09-23-1554_Fresco_e667f5665795-plugins.zip uploaded in 41.3 seconds
+0147.102 (0) Recording as successfully uploaded: backup_2020-09-23-1554_Fresco_e667f5665795-plugins.zip
+0147.110 (0) Deleting local file: backup_2020-09-23-1554_Fresco_e667f5665795-plugins.zip: OK
+0147.641 (0) Google Drive: quota usage: used=2720.7 MB, total=15360 MB, available=12639.3 MB
+0147.644 (0) Google Drive: backup_2020-09-23-1554_Fresco_e667f5665795-themes.zip: Attempting to upload to Google Drive (into folder id: 1gya2c2l0JoPqhl8bYeIF-phDxFose_Cm)
+0150.764 (0) Googledrive chunked upload: 94.3 % uploaded (1048576)
+0152.227 (0) Googledrive chunked upload: 100 % uploaded (1048576)
+0152.238 (0) Google Drive: OK: Archive backup_2020-09-23-1554_Fresco_e667f5665795-themes.zip uploaded in 4.59 seconds
+0152.241 (0) Recording as successfully uploaded: backup_2020-09-23-1554_Fresco_e667f5665795-themes.zip
+0152.247 (0) Deleting local file: backup_2020-09-23-1554_Fresco_e667f5665795-themes.zip: OK
+0152.799 (0) Google Drive: quota usage: used=2721.7 MB, total=15360 MB, available=12638.3 MB
+0152.802 (0) Google Drive: backup_2020-09-23-1554_Fresco_e667f5665795-uploads.zip: Attempting to upload to Google Drive (into folder id: 1gya2c2l0JoPqhl8bYeIF-phDxFose_Cm)
+0154.221 (0) Googledrive chunked upload: 6.2 % uploaded (1048576)
+0155.336 (0) Googledrive chunked upload: 12.5 % uploaded (2097152)
+0156.794 (0) Googledrive chunked upload: 18.7 % uploaded (3145728)
+0157.968 (0) Googledrive chunked upload: 24.9 % uploaded (4194304)
+0159.155 (0) Googledrive chunked upload: 31.1 % uploaded (5242880)
+0160.335 (0) Googledrive chunked upload: 37.4 % uploaded (6291456)
+0161.748 (0) Googledrive chunked upload: 43.6 % uploaded (7340032)
+0162.877 (0) Googledrive chunked upload: 49.8 % uploaded (8388608)
+0164.039 (0) Googledrive chunked upload: 56 % uploaded (9437184)
+0165.256 (0) Googledrive chunked upload: 62.3 % uploaded (10485760)
+0166.849 (0) Googledrive chunked upload: 68.5 % uploaded (11534336)
+0168.329 (0) Googledrive chunked upload: 74.7 % uploaded (12582912)
+0169.158 (0) Googledrive chunked upload: 80.9 % uploaded (13631488)
+0170.329 (0) Googledrive chunked upload: 87.2 % uploaded (14680064)
+0171.417 (0) Googledrive chunked upload: 93.4 % uploaded (15728640)
+0172.589 (0) Googledrive chunked upload: 99.6 % uploaded (16777216)
+0174.066 (0) Googledrive chunked upload: 100 % uploaded (16777216)
+0174.073 (0) Google Drive: OK: Archive backup_2020-09-23-1554_Fresco_e667f5665795-uploads.zip uploaded in 21.27 seconds
+0174.076 (0) Recording as successfully uploaded: backup_2020-09-23-1554_Fresco_e667f5665795-uploads.zip
+0174.082 (0) Deleting local file: backup_2020-09-23-1554_Fresco_e667f5665795-uploads.zip: OK
+0174.615 (0) Google Drive: quota usage: used=2721.7 MB, total=15360 MB, available=12638.3 MB
+0174.618 (0) Google Drive: backup_2020-09-23-1554_Fresco_e667f5665795-others.zip: Attempting to upload to Google Drive (into folder id: 1gya2c2l0JoPqhl8bYeIF-phDxFose_Cm)
+0175.955 (0) Googledrive chunked upload: 46.6 % uploaded (1048576)
+0176.712 (0) Googledrive chunked upload: 93.2 % uploaded (2097152)
+0178.278 (0) Googledrive chunked upload: 100 % uploaded (2097152)
+0178.282 (0) Google Drive: OK: Archive backup_2020-09-23-1554_Fresco_e667f5665795-others.zip uploaded in 3.66 seconds
+0178.284 (0) Recording as successfully uploaded: backup_2020-09-23-1554_Fresco_e667f5665795-others.zip
+0178.288 (0) Deleting local file: backup_2020-09-23-1554_Fresco_e667f5665795-others.zip: OK
+0178.744 (0) Google Drive: quota usage: used=2739.9 MB, total=15360 MB, available=12620.1 MB
+0178.745 (0) Google Drive: backup_2020-09-23-1554_Fresco_e667f5665795-db.gz: Attempting to upload to Google Drive (into folder id: 1gya2c2l0JoPqhl8bYeIF-phDxFose_Cm)
+0181.577 (0) Googledrive chunked upload: 100 % uploaded
+0181.584 (0) Google Drive: OK: Archive backup_2020-09-23-1554_Fresco_e667f5665795-db.gz uploaded in 2.84 seconds
+0181.586 (0) Recording as successfully uploaded: backup_2020-09-23-1554_Fresco_e667f5665795-db.gz
+0181.591 (0) Deleting local file: backup_2020-09-23-1554_Fresco_e667f5665795-db.gz: OK
+0181.596 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0181.598 (0) Number of backup sets in history: 1; groups (db): 1
+0181.599 (0) Examining (for databases) backup set with group_id=0, nonce=e667f5665795, datestamp=1600887273 (Sep 23 2020 18:54:33)
+0181.601 (0) This backup set is the backup set just made, so will not be deleted.
+0181.601 (0) Number of backup sets in history: 1; groups (files): 1
+0181.603 (0) Examining (for files) backup set with nonce=e667f5665795, datestamp=1600887273 (Sep 23 2020 18:54:33)
+0181.603 (0) This backup set is the backup set just made, so will not be deleted.
+0181.605 (0) This backup set is the backup set just made, so will not be deleted.
+0181.605 (0) This backup set is the backup set just made, so will not be deleted.
+0181.606 (0) This backup set is the backup set just made, so will not be deleted.
+0181.606 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0181.608 (0) Retain: saving new backup history (sets now: 1) and finishing retain operation
+0181.611 (0) Resume backup (e667f5665795, 0): finish run
+0181.615 (0) Decremented the semaphore (fd) by 1
+0181.616 (0) Semaphore (fd) unlocked
+0181.618 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0181.622 (0) The backup apparently succeeded and is now complete
+0181.623 (0) No email will/can be sent - the user has not configured an email address.
+0181.625 (0) O backup aparentemente foi bem sucedido e está completo agora.
